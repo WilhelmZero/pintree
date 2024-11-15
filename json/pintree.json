@@ -300,8 +300,15 @@
             "type": "link",
             "addDate": 1731574456089,
             "title": "在线文件批量重命名工具",
-            "icon": "https://logo.clearbit.com/webrename.cn",
+            "icon": "https://tse3-mm.cn.bing.net/th/id/OIP-C.S4qJn-7haS7NzZg85pYM0gHaHa?rs=1&pid=ImgDetMain",
             "url": "https://webrename.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731573769087,
+            "title": "微信临时传文件",
+            "icon": "https://res.wx.qq.com/t/fed_upload/6e074aae-e7af-490b-b421-362685ef2333/login_ic@2x.png",
+            "url": "https://filehelper.weixin.qq.com/"
           }
         ]
       },
@@ -395,6 +402,13 @@
         "title": "DeepL翻译：全世界最准确的翻译",
         "icon": "https://logo.clearbit.com/www.deepl.com",
         "url": "https://www.deepl.com/zh/translator"
+      },
+      {
+        "type": "link",
+        "addDate": 1731573769087,
+        "title": "微信临时传文件",
+        "icon": "https://res.wx.qq.com/t/fed_upload/6e074aae-e7af-490b-b421-362685ef2333/login_ic@2x.png",
+        "url": "https://filehelper.weixin.qq.com/"
       }
     ]
   }
