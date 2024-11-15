@@ -313,6 +313,27 @@
         ]
       },
       {
+        "type": "folder",
+        "addDate": 1731574852778,
+        "title": "软件安装教程",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1731574002217,
+            "title": "ArcGIS10.8保姆式安装教程",
+            "icon": "https://tse2-mm.cn.bing.net/th/id/OIP-C.qEFH-157JAc1PgNC-Or58wHaEn?w=275&h=180&c=7&r=0&o=5&pid=1.7",
+            "url": "https://blog.csdn.net/qq_57342311/article/details/128675890"
+          },
+          {
+            "type": "link",
+            "addDate": 1731574002217,
+            "title": "Office 2021 for Mac 安装激活教程",
+            "icon": "https://img.tukuppt.com/png_preview/00/22/30/G6zpnpOSkc.jpg!/fw/780",
+            "url": "https://itc.shisu.edu.cn/78/6a/c10035a161898/page.htm"
+          }
+        ]
+      },
+      {
         "type": "link",
         "addDate": 1731573513227,
         "title": "中国知网",
