@@ -237,15 +237,22 @@
             "type": "link",
             "addDate": 1731571654898,
             "title": "60秒冥想",
-            "icon": "https://logo.clearbit.com/www.pixelthoughts.co",
+            "icon": "https://img.88icon.com/upload/jpg/20210526/c6dcd95b9ee8cf0a60d330574cee3ade_25048_512_512.jpg",
             "url": "https://www.pixelthoughts.co/"
           },
           {
             "type": "link",
             "addDate": 1731571654898,
             "title": "红白游戏盒（PC端）",
-            "icon": "https://logo.clearbit.com/nes.heheda.top",
+            "icon": "https://img.88icon.com/download/jpg/20200714/ee177852cee2e2228f1fcdaeba2619b6_512_512.jpg",
             "url": "https://nes.heheda.top/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731571654898,
+            "title": "iPhone设计",
+            "icon": "https://logo.clearbit.com/neal.fun",
+            "url": "https://neal.fun/design-the-next-iphone/"
           }
         ]
       },
