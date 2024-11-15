@@ -27,8 +27,15 @@
             "type": "link",
             "addDate": 1731572543746,
             "title": "谷歌学术",
-            "icon": "https://logo.clearbit.com/scholar.google.com",
+            "icon": "https://nav.jarvis73.com/images/google_scholar.ico",
             "url": "https://scholar.google.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731573042689,
+            "title": "百度学术",
+            "icon": "https://gdown.baidu.com/img/0/512_512/f5af01a6a6b611b704f366861a8f046b.png",
+            "url": "https://xueshu.baidu.com/"
           },
           {
             "type": "link",
@@ -57,6 +64,20 @@
             "title": "维普网",
             "icon": "https://logo.clearbit.com/www.cqvip.com",
             "url": "https://www.cqvip.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731573042689,
+            "title": "PubMed",
+            "icon": "https://logo.clearbit.com/nih.gov",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731573042689,
+            "title": "WebOfSci",
+            "icon": "https://nav.jarvis73.com/images/webofsci.ico",
+            "url": "https://www.webofknowledge.com/"
           }
         ]
       },
@@ -274,6 +295,13 @@
             "title": "DeepL翻译：全世界最准确的翻译",
             "icon": "https://logo.clearbit.com/www.deepl.com",
             "url": "https://www.deepl.com/zh/translator"
+          },
+          {
+            "type": "link",
+            "addDate": 1731573713982,
+            "title": "Google翻译",
+            "icon": "https://nav.jarvis73.com/images/translate_google.ico",
+            "url": "https://translate.google.com/"
           }
         ]
       },
