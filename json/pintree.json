@@ -6,6 +6,62 @@
     "children": [
       {
         "type": "folder",
+        "addDate": 1731574852777,
+        "title": "文献检索",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1731572408068,
+            "title": "中国知网",
+            "icon": "https://logo.clearbit.com/www.cnki.net",
+            "url": "https://www.cnki.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731572877876,
+            "title": "SCI-Hub论文下载可用网址链接（实时更新） - YoviSun工具集",
+            "icon": "https://cdn.yongdaoyun.com/AQICMS/AQITOOL/upload/b5174d4ddd43e93a5e0b5ac5b27c5790.png",
+            "url": "https://tool.yovisun.com/scihub/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731572543746,
+            "title": "谷歌学术",
+            "icon": "https://logo.clearbit.com/scholar.google.com",
+            "url": "https://scholar.google.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731572916444,
+            "title": "Semantic Scholar | AI-Powered Research Tool",
+            "icon": "https://logo.clearbit.com/www.semanticscholar.org",
+            "url": "https://www.semanticscholar.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731572973402,
+            "title": "图书馆参考咨询联盟",
+            "icon": "https://logo.clearbit.com/www.ucdrs.cn",
+            "url": "http://www.ucdrs.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731572902492,
+            "title": "IntechOpen - Open Science Open Minds | IntechOpen",
+            "icon": "https://logo.clearbit.com/www.intechopen.com",
+            "url": "https://www.intechopen.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731573042689,
+            "title": "维普网",
+            "icon": "https://logo.clearbit.com/www.cqvip.com",
+            "url": "https://www.cqvip.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "addDate": 1731574852776,
         "title": "国内AI大模型",
         "children": [
@@ -190,62 +246,6 @@
             "title": "红白游戏盒（PC端）",
             "icon": "https://logo.clearbit.com/nes.heheda.top",
             "url": "https://nes.heheda.top/"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1731574852777,
-        "title": "文献检索",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1731572408068,
-            "title": "中国知网",
-            "icon": "https://logo.clearbit.com/www.cnki.net",
-            "url": "https://www.cnki.net/"
-          },
-          {
-            "type": "link",
-            "addDate": 1731572877876,
-            "title": "SCI-Hub论文下载可用网址链接（实时更新） - YoviSun工具集",
-            "icon": "https://cdn.yongdaoyun.com/AQICMS/AQITOOL/upload/b5174d4ddd43e93a5e0b5ac5b27c5790.png",
-            "url": "https://tool.yovisun.com/scihub/"
-          },
-          {
-            "type": "link",
-            "addDate": 1731572543746,
-            "title": "谷歌学术",
-            "icon": "https://logo.clearbit.com/scholar.google.com",
-            "url": "https://scholar.google.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1731572916444,
-            "title": "Semantic Scholar | AI-Powered Research Tool",
-            "icon": "https://logo.clearbit.com/www.semanticscholar.org",
-            "url": "https://www.semanticscholar.org/"
-          },
-          {
-            "type": "link",
-            "addDate": 1731572973402,
-            "title": "图书馆参考咨询联盟",
-            "icon": "https://logo.clearbit.com/www.ucdrs.cn",
-            "url": "http://www.ucdrs.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1731572902492,
-            "title": "IntechOpen - Open Science Open Minds | IntechOpen",
-            "icon": "https://logo.clearbit.com/www.intechopen.com",
-            "url": "https://www.intechopen.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1731573042689,
-            "title": "维普网",
-            "icon": "https://logo.clearbit.com/www.cqvip.com",
-            "url": "https://www.cqvip.com/"
           }
         ]
       },
