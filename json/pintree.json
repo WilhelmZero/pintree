@@ -337,6 +337,13 @@
             "title": "微信临时传文件",
             "icon": "https://res.wx.qq.com/t/fed_upload/6e074aae-e7af-490b-b421-362685ef2333/login_ic@2x.png",
             "url": "https://filehelper.weixin.qq.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731573769087,
+            "title": "文件转换器",
+            "icon": "https://logo.clearbit.com/convertio.co",
+            "url": "https://convertio.co/zh/"
           }
         ]
       },
